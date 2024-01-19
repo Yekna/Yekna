@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hi there, my name is Uroš  [(How to pronounce)](https://forvo.com/word/uro%C5%A1/) 
 
 - 🔭 Looking for a Frontend role in Web Development using any React like framework (Best on Next.js) 
 - 💻 I've been coding for 5 years now
