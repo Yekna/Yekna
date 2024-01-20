@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I have a perfect American accent when speaking English
 
 
-## 📖 BACKSTORY
+# 📖 BACKSTORY
 I got into Software Development right before finishing High School when I knew the career I chose to pursue wasn't for me.
 
 At first it started out with Game Development like most people that wasted a lot of hours gaming. After a couple of months of learning how Game Development works and making a few small games of my own I figured it wasn't a career path I wanted to pursue as well.
